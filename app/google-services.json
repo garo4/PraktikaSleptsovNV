@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "559729489129",
+    "project_id": "isip19-sleptsovnvpraktika",
+    "storage_bucket": "isip19-sleptsovnvpraktika.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:559729489129:android:aa26083673acec48c6ec78",
+        "android_client_info": {
+          "package_name": "com.example.praktikasleptsovnv"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "559729489129-bpnm6mkpu53ouv5pf10lsqsd5pdech6p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkNgRa1fcba8obH1oAXX99glwVQK41Tdk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "559729489129-bpnm6mkpu53ouv5pf10lsqsd5pdech6p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
